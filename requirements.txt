@@ -1,0 +1,7 @@
+pip>=24.2
+tensorflow
+numpy
+scikit-learn
+tensorboard
+matplotlib
+streamlit
